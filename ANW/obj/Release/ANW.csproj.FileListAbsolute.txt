@@ -1,0 +1,10 @@
+D:\C# Projects\ANW\bin\Release\ANW.exe.config
+D:\C# Projects\ANW\bin\Release\ANW.exe
+D:\C# Projects\ANW\bin\Release\ANW.pdb
+D:\C# Projects\ANW\obj\Release\ANW.csproj.AssemblyReference.cache
+D:\C# Projects\ANW\obj\Release\ANW.ANW.resources
+D:\C# Projects\ANW\obj\Release\ANW.Properties.Resources.resources
+D:\C# Projects\ANW\obj\Release\ANW.csproj.GenerateResource.cache
+D:\C# Projects\ANW\obj\Release\ANW.csproj.CoreCompileInputs.cache
+D:\C# Projects\ANW\obj\Release\ANW.exe
+D:\C# Projects\ANW\obj\Release\ANW.pdb

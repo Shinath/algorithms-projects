@@ -1,0 +1,60 @@
+D:\C# Projects\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+D:\C# Projects\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+D:\C# Projects\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+D:\C# Projects\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.AssemblyReference.cache
+D:\C# Projects\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+D:\C# Projects\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+D:\C# Projects\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+D:\C# Projects\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+D:\C# Projects\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+D:\C# Projects\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.AGDashboard.resources
+D:\C# Projects\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.manifest
+D:\C# Projects\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.application
+D:\C# Projects\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe.manifest
+D:\C# Projects\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.application
+D:\C# Projects\GeneticAlgorithm 2\bin\Debug\GeneticAlgorithm.exe.config
+D:\C# Projects\GeneticAlgorithm 2\bin\Debug\GeneticAlgorithm.exe.manifest
+D:\C# Projects\GeneticAlgorithm 2\bin\Debug\GeneticAlgorithm.application
+D:\C# Projects\GeneticAlgorithm 2\bin\Debug\GeneticAlgorithm.exe
+D:\C# Projects\GeneticAlgorithm 2\bin\Debug\GeneticAlgorithm.pdb
+D:\C# Projects\GeneticAlgorithm 2\obj\Debug\GeneticAlgorithm.csproj.AssemblyReference.cache
+D:\C# Projects\GeneticAlgorithm 2\obj\Debug\GeneticAlgorithm.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\GeneticAlgorithm 2\obj\Debug\GeneticAlgorithm.AGDashboard.resources
+D:\C# Projects\GeneticAlgorithm 2\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+D:\C# Projects\GeneticAlgorithm 2\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+D:\C# Projects\GeneticAlgorithm 2\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+D:\C# Projects\GeneticAlgorithm 2\obj\Debug\GeneticAlgorithm.exe.manifest
+D:\C# Projects\GeneticAlgorithm 2\obj\Debug\GeneticAlgorithm.application
+D:\C# Projects\GeneticAlgorithm 2\obj\Debug\GeneticAlgorithm.exe
+D:\C# Projects\GeneticAlgorithm 2\obj\Debug\GeneticAlgorithm.pdb
+D:\C# Projects\GeneticAlgorithm 3\obj\Debug\GeneticAlgorithm.csproj.AssemblyReference.cache
+D:\C# Projects\GeneticAlgorithm 3\obj\Debug\GeneticAlgorithm.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\GeneticAlgorithm 3\obj\Debug\GeneticAlgorithm.GUIForm.resources
+D:\C# Projects\GeneticAlgorithm 3\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+D:\C# Projects\GeneticAlgorithm 3\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+D:\C# Projects\GeneticAlgorithm 3\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+D:\C# Projects\GeneticAlgorithm 3\obj\Debug\GeneticAlgorithm.exe
+D:\C# Projects\GeneticAlgorithm 3\obj\Debug\GeneticAlgorithm.pdb
+D:\C# Projects\GeneticAlgorithm 3\bin\Debug\GeneticAlgorithm.exe.config
+D:\C# Projects\GeneticAlgorithm 3\bin\Debug\GeneticAlgorithm.exe.manifest
+D:\C# Projects\GeneticAlgorithm 3\bin\Debug\GeneticAlgorithm.application
+D:\C# Projects\GeneticAlgorithm 3\bin\Debug\GeneticAlgorithm.exe
+D:\C# Projects\GeneticAlgorithm 3\bin\Debug\GeneticAlgorithm.pdb
+D:\C# Projects\GeneticAlgorithm 3\obj\Debug\GeneticAlgorithm.exe.manifest
+D:\C# Projects\GeneticAlgorithm 3\obj\Debug\GeneticAlgorithm.application
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\bin\Debug\GeneticAlgorithm.exe.config
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\bin\Debug\GeneticAlgorithm.exe.manifest
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\bin\Debug\GeneticAlgorithm.application
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\bin\Debug\GeneticAlgorithm.exe
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\bin\Debug\GeneticAlgorithm.pdb
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\obj\Debug\GeneticAlgorithm.csproj.AssemblyReference.cache
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\obj\Debug\GeneticAlgorithm.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\obj\Debug\GeneticAlgorithm.GUIForm.resources
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\obj\Debug\GeneticAlgorithm.exe.manifest
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\obj\Debug\GeneticAlgorithm.application
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\obj\Debug\GeneticAlgorithm.exe
+D:\C# Projects\GeneticAlgorithm 4 - LAB3 z turami\obj\Debug\GeneticAlgorithm.pdb

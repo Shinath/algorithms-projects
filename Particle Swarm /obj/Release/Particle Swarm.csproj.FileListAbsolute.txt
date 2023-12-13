@@ -1,0 +1,21 @@
+D:\C# Projects\Particle Swarm\bin\Release\Particle Swarm.exe.config
+D:\C# Projects\Particle Swarm\bin\Release\Particle Swarm.exe
+D:\C# Projects\Particle Swarm\bin\Release\Particle Swarm.pdb
+D:\C# Projects\Particle Swarm\obj\Release\Particle Swarm.csproj.AssemblyReference.cache
+D:\C# Projects\Particle Swarm\obj\Release\Particle Swarm.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\Particle Swarm\obj\Release\Particle_Swarm.PSO.resources
+D:\C# Projects\Particle Swarm\obj\Release\Particle_Swarm.Properties.Resources.resources
+D:\C# Projects\Particle Swarm\obj\Release\Particle Swarm.csproj.GenerateResource.cache
+D:\C# Projects\Particle Swarm\obj\Release\Particle Swarm.csproj.CoreCompileInputs.cache
+D:\C# Projects\Particle Swarm\obj\Release\Particle Swarm.exe
+D:\C# Projects\Particle Swarm\obj\Release\Particle Swarm.pdb
+D:\C# Projects\Particle Swarm — kopia\bin\Release\Particle Swarm.exe.config
+D:\C# Projects\Particle Swarm — kopia\bin\Release\Particle Swarm.exe
+D:\C# Projects\Particle Swarm — kopia\bin\Release\Particle Swarm.pdb
+D:\C# Projects\Particle Swarm — kopia\obj\Release\Particle Swarm.csproj.AssemblyReference.cache
+D:\C# Projects\Particle Swarm — kopia\obj\Release\Particle_Swarm.PSO.resources
+D:\C# Projects\Particle Swarm — kopia\obj\Release\Particle_Swarm.Properties.Resources.resources
+D:\C# Projects\Particle Swarm — kopia\obj\Release\Particle Swarm.csproj.GenerateResource.cache
+D:\C# Projects\Particle Swarm — kopia\obj\Release\Particle Swarm.csproj.CoreCompileInputs.cache
+D:\C# Projects\Particle Swarm — kopia\obj\Release\Particle Swarm.exe
+D:\C# Projects\Particle Swarm — kopia\obj\Release\Particle Swarm.pdb
